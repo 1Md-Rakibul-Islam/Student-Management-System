@@ -7,7 +7,7 @@ A **scalable and production-ready backend system** built with **Node.js, Express
 ## 🚀 Live / Source
 
 * **Live:** *Comming Soon*
-* **Source Code:** *(https://github.com/1Md-Rakibul-Islam/Uttara-University-Node-Express)*
+* **Source Code:** *(https://github.com/1Md-Rakibul-Islam/Student-Management-System)*
 
 ---
 
@@ -20,10 +20,10 @@ A **scalable and production-ready backend system** built with **Node.js, Express
   Well-structured APIs for managing university operations such as students, faculty, departments, and academic data.
 
 * 👨‍🎓 **Student Module**
-  Handles full student lifecycle including create, update, retrieve, and management operations with proper validation and business logic.
+  Handles full student lifecycle, including create, update, retrieve, and management operations with proper validation and business logic.
 
 * 👤 **User Module**
-  Manages user-related operations including authentication and authorization (if implemented).
+  Manages user-related operations, including authentication and authorization (if implemented).
 
 * 🏫 **Academic Modules**
   Includes **Department, Faculty, and Semester modules** to manage the academic structure of the university system.
