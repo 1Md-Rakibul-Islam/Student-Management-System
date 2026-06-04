@@ -172,17 +172,6 @@ npm run start:prod
 
 ---
 
-## 👨‍💻 Author
-
-**Rakibul Islam**
-Full Stack Developer (Frontend-Focused)
-
-* 🌐 Portfolio: *(Add your portfolio)*
-* 💼 LinkedIn: *(Add your LinkedIn)*
-* 🐙 GitHub: *(Add your GitHub)*
-
----
-
 ## 📄 License
 
 This project is licensed under the **ISC License**.
